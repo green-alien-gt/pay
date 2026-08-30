@@ -1,6 +1,7 @@
 export const metadata = {
   title: "green alien pay",
-  description: "x402 paid API. USDC on Solana."
+  description: "x402 paid API. USDC on Solana.",
+  robots: { index: true, follow: true }
 };
 
 export default function RootLayout({ children }) {
